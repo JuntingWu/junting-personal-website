@@ -1,0 +1,7 @@
+.gradient-color{
+    background-image: linear-gradient(to bottom right,#81D4FA, rgb(255, 215, 14),rgb(255 255 254 ));
+}
+
+.spotify{
+    background-image: linear-gradient(to bottom left, white, #1ED760, gray);
+}
