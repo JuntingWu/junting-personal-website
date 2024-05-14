@@ -7,9 +7,9 @@ const HeroSection = () => {
             <div className="grid grid-cols-1 lg:grid-cols-12">
                 <div className="col-span-7 place-self-center text-center pt-[125px]">
                     <h1 class="text-white my-14 sm:text-5xl text-3xl md:text-6xl lg:text-7xl xl:text-8xl
-                    font-extrabold font-sans"><span class="text-transparent bg-clip-text gradient-color">Hello, I'm Junting</span></h1>
+                    font-extrabold font-sans"><span class="text-transparent bg-clip-text gradient-color">Hello, I&#39;m Junting</span></h1>
                     <p class="text-[#81D4FA] text-lg lg:text-2xl my-2" >
-                        Welcome to my personal website. I'm a second-year student studying
+                        Welcome to my personal website. I&#39;m a second-year student studying
                         electrical engineering at the University of Toronto.
                     </p>
                     <div>
