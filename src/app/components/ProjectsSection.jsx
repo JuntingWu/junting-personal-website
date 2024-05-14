@@ -28,11 +28,11 @@ const ProjectsSection = () => {
       <div class="text-5xl text-transparent bg-clip-text gradient-color py-3">Projects</div>
       <div className='flex flex-row'>
         {Projects.map((link, index) => (
-          <ProjectsCard key = { index }
-          href ={link.link} 
-          title={link.title}
-          description={link.description}
-          image={link.image}/>
+          <ProjectsCard key={index}
+            href={link.link}
+            title={link.title}
+            description={link.description}
+            image={link.image} />
         ))}
       </div>
       <div className='text-center py-5'>
