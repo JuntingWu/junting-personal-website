@@ -24,7 +24,7 @@ const HeroSection = () => {
                 </div>
                 <div className="col-span-5 place-self-center mt-4 lg:mt-0">
                     <div className="rounded-full flex offset-5 bg-gray-800 w-[300px] h-[330px] lg:w-[400px] lg:h-[400px] relative">
-                        <Image src="/images/Picture-of-me.jpg" 
+                        <Image src="images/Picture-of-me.jpg" 
                         alt='picture of me' 
                         class='absolute rounded-md object-cover'
                         width ={500} 

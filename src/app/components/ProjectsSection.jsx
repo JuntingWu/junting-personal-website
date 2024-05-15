@@ -7,19 +7,19 @@ const Projects = [
     link: 'https://www.youtube.com/watch?v=ZNTl41vehdw',
     title: 'Guess The Location',
     description: 'Web developer using React.js to link user-uploaded images and display them on webpage',
-    image: '/images/GuessTheLocation.png',
+    image: 'images/GuessTheLocation.png',
   },
   {
-    link: '/',
+    link: 'https://juntingwu.github.io/junting-personal-website/',
     title: 'This Personal Website',
     description: 'Built this responsive personal website using Next.js and styled efficiently using TailwindCSS',
-    image: '/images/Picture-of-me.jpg',
+    image: 'images/Picture-of-me.jpg',
   },
   {
     link: 'https://open.spotify.com/artist/4buIVdQZPiyQ4R8QBWHSbP?si=ON4PPkgLQ-6TZ0eouqbNMQ&nd=1&dlsi=d68d6e414b234871',
     title: 'Music Creation',
     description: 'Making fire beats',
-    image: '/images/My-Spotify.png',
+    image: 'images/My-Spotify.png',
   }
 ]
 const ProjectsSection = () => {
