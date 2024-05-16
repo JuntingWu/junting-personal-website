@@ -2,7 +2,7 @@ import React from 'react'
 
 const AboutSection = () => {
   return (//Make opacity change as we scroll down
-    <section class="text-white py-6">
+    <section class="text-white my-10">
         <div class="text-5xl text-transparent bg-clip-text gradient-color">More About Me</div>
         <p class="py-3">
             I am passionate about programming and making my own things that work!

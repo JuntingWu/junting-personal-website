@@ -26,7 +26,7 @@ const ProjectsSection = () => {
   return (
     <section class="text-white py-6">
       <div class="text-5xl text-transparent bg-clip-text gradient-color py-3">Projects</div>
-      <div className='flex flex-row'>
+      <div className='container flex flex-col biggest'>
         {Projects.map((link, index) => (
           <ProjectsCard key={index}
             href={link.link}
