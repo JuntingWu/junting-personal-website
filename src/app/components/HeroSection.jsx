@@ -15,7 +15,7 @@ const HeroSection = () => {
                     <div>
                         <button class="text-black gradient-color w-full sm:w-fit px-6 py-3 rounded-lg inline-block mr-8 my-2 hover:bg-sky-300 active:bg-sky500 focus:outline-none focus:ring focus:ring-white">Download my resumé</button>
                         <button class="px-6 py-3 w-full sm:w-fit rounded-lg inline-block bg-sky-200 mr-8 hover:bg-sky-300 active:bg-sky500 focus:outline-none focus:ring focus:ring-[#0A66C2]">
-                            <div class="inline-block h-[1.25rem]"><Image src="images/Linkedin-logo.png"
+                            <div class="inline-block h-[1.25rem]"><Image src="/images/Linkedin-logo.png"
                                 height={30}
                                 width={30} /></div> <a class=" font-bold " href="https://www.linkedin.com/in/junting-wu/">My LinkedIn</a></button>
                         <button class="px-6 py-3 w-full sm:w-fit rounded-lg inline-block gradient-color hover:bg-sky-300 active:bg-sky500 focus:outline-none focus:ring focus:ring-[#0A66C2]">
@@ -24,7 +24,7 @@ const HeroSection = () => {
                 </div>
                 <div className="relative pl-6 col-span-5 place-self-center py-3 my-3 lg:mt-0">
                     <div className="rounded-full place-self-center w-[200px] h-[230px] lg:w-[350px] lg:h-[300px] relative">
-                    <img src="images/Picture-of-me.jpg"
+                    <img src="/images/Picture-of-me.jpg"
                             alt='picture of me'
                             class='flex my-1 absolute object-cover rounded-full'
                         

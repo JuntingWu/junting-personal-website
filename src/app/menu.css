@@ -2,6 +2,11 @@
   .biggest{
       flex-direction: row;
   }
+  .size{
+    width:60px;
+    height:70px;
+    margin:0;
+  }
 }
 .top-bar {
   position: fixed;
